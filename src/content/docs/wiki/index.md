@@ -1,4 +1,4 @@
----
+bgNG3ycGiA7@qKG
 title: Bedrock Voice Chat
 description: Proximity voice chat for Minecraft Bedrock and Java. Components, setup order, and where to start.
 ---
